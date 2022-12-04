@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Microscopy"
 permalink: /microscopy/
 author_profile: true

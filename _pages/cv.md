@@ -9,51 +9,47 @@ redirect_from:
 
 {% include base_path %}
 
+Work
+======
+
+* May 2021 – Present: Director of Software Engineering
+  * Bazaarvoice
+  * Building kick-ass team building MarTech products
+  
+* Apr 2019 – Apr 2021 (2 yrs 1 mo): Product Architect
+  * Global Payments
+  * Back to tech and payments mixed with product
+
+* Jan 2018 – Mar 2019 (1 yr 3 mos): Product Partner
+  * Big Motive
+  * Did the small consulting thing
+
+
+* Jan 2016 – Jan 2018 (2 yrs 1 mo): Product Lead
+  * PwC
+  * Did the big consulting thing
+
+* May 2014 – Dec 2015 (1 yr 8 mos): Product Manager
+  * Bitnet
+  * Did the startup thing and dabbled in product management
+
+* Dec 2008 – Apr 2014 (5 yrs 5 mos): Staff Software Engineer
+  * Visa
+  * Built some payment systems
+
+* Jun 2004 – Nov 2008 (4 yrs 6 mos): Senior Software Engineer
+  * Lagan
+  * Built some CRM systems
+
+Community & Engagement
+======
+* Oct 2017 – Apr 2019 (1 yr 7 mos): Design Thinking Coach
+  * Mentor to early-stage teams on Catalyst's Co-Founders programme
+
+* Jan 2016 – Dec 2020 (5 yrs): Co-Founder & Organiser
+  * ProductTank Belfast
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* BSc (Hons) Computing Science, Ulster University 2000 – 2004
+  * Learned about computers and stuff

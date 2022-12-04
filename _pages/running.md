@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: "Running"
 permalink: /running/
 author_profile: true

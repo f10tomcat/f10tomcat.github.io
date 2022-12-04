@@ -253,7 +253,7 @@ defaults:
   # _running
   - scope:
       path: ""
-      type: talks
+      type: running
     values:
       layout: single
       author_profile: true
@@ -261,7 +261,7 @@ defaults:
   # _microscopy
   - scope:
       path: ""
-      type: talks
+      type: microscopy
     values:
       layout: single
       author_profile: true
