@@ -6,5 +6,11 @@ main:
   - title: "Microscopy"
     url: /microscopy/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Arts & Crafts"
+    url: /art/
+
+  - title: "Lego"
+    url: /lego/
+
+  - title: "Portfolio"
+    url: /portfolio/
