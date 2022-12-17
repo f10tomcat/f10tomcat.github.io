@@ -11,9 +11,9 @@ title                    : "mccollum"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://rmccollum.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://f10tomcat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rmccollum/rmccollum.github.io"
+repository               : "f10tomcat/f10tomcat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Freya McCollum"
+  name             : "Freya"
   avatar           : "profile-freya.jpeg"
   bio              : "Geeky girl"
   location         : "Ireland"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rmccollum"
+  github           : "f10tomcat"
   google_plus      :
   keybase          :
   instagram        :
