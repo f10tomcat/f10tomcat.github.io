@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal website for hosting stuff"
+title: "Personal site for hosting stuff..."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Front page
+...and this is the front page
