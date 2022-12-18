@@ -1,13 +1,10 @@
 # main links links
 main:
-#  - title: "Running"
-#    url: /running/
+  - title: "Running"
+    url: /running/
 
   - title: "Microscopy"
     url: /microscopy/
 
-  - title: "Arts & Crafts"
-    url: /art/
-
-  - title: "Lego"
-    url: /lego/
+  - title: "CV"
+    url: /cv/

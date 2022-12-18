@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-A page to show some running experience.
+A page to show some running stuff.
